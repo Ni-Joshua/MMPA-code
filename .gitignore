@@ -1,0 +1,33 @@
+# LLMwork
+Testing.py
+PyplotImages
+PNGs
+CSVfiles
+keys
+CSV(Tests)
+Data
+Eval1
+Eval2
+Eval_Final
+Original Run(Without No New Active Fire)
+New Run
+TimeGPT.py
+Geminiprompting(YN)(BP).py
+Geminiprompting(Image).py
+Geminiprompting(Categorical)(ToT).py
+Geminiprompting(Categorical)(DT).py
+Geminiprompting(Categorical).py
+Geminipromopting(Categorical)(DTP)(Natural).py
+Geminipromopting(Categorical)(DTP)(Balanced).py
+Geminipromopting(Categorical)(DTP)(Natural)(Prompts).py
+Geminipromopting(Categorical)(DTP)(1group)(Natural)(Prompts).py
+Geminipromopting(Categorical)(DTP)(1group)(Natural).py
+Geminipromopting(Categorical)(DTP)(1group)(Balanced).py
+GeminiCSVcreation.py
+GeminiTesting(DT).py
+GeminiTesting.py
+Tree.json
+CSVDATA.csv
+PltSaving.py
+TimeGPTCSV.py
+TimeGPTCSV2.py
