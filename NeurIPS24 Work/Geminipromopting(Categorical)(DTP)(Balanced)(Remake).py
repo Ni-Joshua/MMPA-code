@@ -12,7 +12,7 @@ import time
 import json
 import time
 
-genai.configure(api_key="AIzaSyAqkIiwTo8HiWlSzOxKwWVUVJ0yVZOSG6Q")
+genai.configure(api_key="")
 random.seed(24)
 
 
