@@ -31,10 +31,6 @@ CSVDATA.csv
 PltSaving.py
 TimeGPTCSV.py
 TimeGPTCSV2.py
-Geminipromopting(Categorical)(DTP)(Natural)(Remake).py
-Geminipromopting(Categorical)(DTP, SP)(1group)(Natural)(Remake).py
-Geminipromopting(Categorical)(DTP,SP)(1group)(Balanced)(Remake).py
-Final Results
 PNGs(TrueColor)(ActiveFirePatch)
 PNGs(TrueColor)
 FixedRunGeminiPrompting(Categorical).py
@@ -44,7 +40,4 @@ Geminipromopting(Categorical)(DTP)(Balanced)(Remake)(PRO)(NoVoter)(G3).py
 Geminipromopting(Categorical)(DTP)(Balanced)(Remake)(PRO)(LLMVoter)(G3).py
 Geminipromopting(Categorical)(DTP)(Balanced)(Remake) copy 4.py
 Geminipromopting(Categorical)(DTP)(Balanced)(Remake) copy.py
-Geminipromopting(Categorical)(DTP)(Balanced)(Remake).py
-Gemini(Categorical)(DTP)eval3.py
 AGU Work\Code\PNGSaving(TrueColor).py
-NeurIPS24 Work
